@@ -13,6 +13,19 @@ body{
     
 }
 
+#box{
+    margin-top: 50px;
+    width: 800px;
+    height: auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 6px 4px 81px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+}
+
+
 h1{
     margin-bottom:120px;
     color: rgb(0, 0, 0);
@@ -54,4 +67,5 @@ button:hover{
   background: #fff;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+
 }
